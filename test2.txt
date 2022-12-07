@@ -1,1 +1,5 @@
-this is text2
+<<<<<<< HEAD
+this is text
+=======
+Cdthis is text
+>>>>>>> test
